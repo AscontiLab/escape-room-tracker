@@ -19,9 +19,7 @@ ANBIETER_OPTIONS = [
     "EXITROOM", "EXIT Game", "Escape Berlin", "TeamEscape",
     "House of Tales", "THE ROOM", "Final Escape", "Smart Room",
     "Labyrintoom", "MIRACULUM", "Illuminati Escape", "Black Room",
-    "Make a Break", "Cat in the Bag", "Claustrophobia", "Prohibition Berlin",
-    "Exit the Room", "Adventox", "your time2escape", "Laserstar",
-    "Sonstige",
+    "Make a Break", "Cat in the Bag", "your time2escape", "Sonstige",
 ]
 
 BEZIRK_OPTIONS = [
