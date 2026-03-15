@@ -67,22 +67,22 @@ KNOWN_ROOMS = [
      "players": "8-14", "duration": 66, "difficulty": "", "price_from": None,
      "booking_url": "https://www.exit-game.de/game/prison-island-battle-modus",
      "room_url": "https://www.exit-game.de/game/prison-island-battle-modus",
-     "address": "Berlin Mitte", "active": True},
+     "address": "Friedrichstr. 101, 10117 Berlin", "active": True},
     {"name": "Prison Island", "provider": "EXIT Game", "district": "Mitte", "theme": "Action",
      "players": "3-7", "duration": 66, "difficulty": "", "price_from": None,
      "booking_url": "https://www.exit-game.de/game/prison-island",
      "room_url": "https://www.exit-game.de/game/prison-island",
-     "address": "Berlin Mitte", "active": True},
+     "address": "Friedrichstr. 101, 10117 Berlin", "active": True},
     {"name": "Monster Party", "provider": "EXIT Game", "district": "Mitte", "theme": "Abenteuer",
      "players": "2-10", "duration": 66, "difficulty": "Leicht", "price_from": None,
      "booking_url": "https://www.exit-game.de/game/monster-party",
      "room_url": "https://www.exit-game.de/game/monster-party",
-     "address": "Berlin Mitte", "active": True},
+     "address": "Friedrichstr. 101, 10117 Berlin", "active": True},
     {"name": "Admiral Kingdom", "provider": "EXIT Game", "district": "Mitte", "theme": "Abenteuer",
      "players": "2-6", "duration": 66, "difficulty": "", "price_from": None,
      "booking_url": "https://www.exit-game.de/game/admiral-kingdom",
      "room_url": "https://www.exit-game.de/game/admiral-kingdom",
-     "address": "Berlin Mitte", "active": True},
+     "address": "Friedrichstr. 101, 10117 Berlin", "active": True},
     {"name": "Madhouse", "provider": "EXIT Game", "district": "Mitte", "theme": "Horror",
      "players": "2-8", "duration": 66, "difficulty": "Schwer", "price_from": 19.5,
      "booking_url": "https://www.exit-game.de/buchen",
@@ -99,7 +99,7 @@ KNOWN_ROOMS = [
      "room_url": "https://www.exit-game.de/game/teamrallye",
      "address": "Friedrichstr. 101, 10117 Berlin", "active": True},
 
-    # === Escape Berlin (13 Räume, Lichtenberg) ===
+    # === Escape Berlin (12 Räume, Lichtenberg) ===
     {"name": "Sherlocks Falle", "provider": "Escape Berlin", "district": "Lichtenberg", "theme": "Krimi",
      "players": "2-12", "duration": 60, "difficulty": "", "price_from": None,
      "booking_url": "https://www.escape-berlin.de/de/live/18-sherlocksaefalle/",
@@ -299,7 +299,7 @@ KNOWN_ROOMS = [
      "room_url": "https://labyrintoom.com",
      "address": "Wartenberg Str. 35/36, 10365 Berlin", "active": True},
 
-    # === Illuminati Escape (5 Indoor + 4 Outdoor, Charlottenburg) ===
+    # === Illuminati Escape (5 Indoor + 2 Outdoor = 7 Räume, Charlottenburg) ===
     {"name": "Alien Grill", "provider": "Illuminati Escape", "district": "Charlottenburg", "theme": "Sci-Fi",
      "players": "2-6", "duration": 60, "difficulty": "", "price_from": 25.0,
      "booking_url": "https://www.illuminati-escape.com/escaperoom/berlin/de/buchen.html#aliengrill",
@@ -429,7 +429,7 @@ KNOWN_ROOMS = [
      "room_url": "https://www.final-escape.com/berlin/escape-spiele/blutiges-erwachen/",
      "address": "Prenzlauer Allee 23, 10405 Berlin", "active": True},
 
-    # === Smart Room (10 Räume, Lichtenberg) ===
+    # === Smart Room (10 Räume, Lichtenberg + 1x Friedrichshain) ===
     {"name": "BACKUP: YOU", "provider": "Smart Room", "district": "Friedrichshain", "theme": "Sci-Fi",
      "players": "4-10", "duration": 75, "difficulty": "", "price_from": None,
      "booking_url": "https://smartroom-berlin.com/de/buchen",
