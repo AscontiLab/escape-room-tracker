@@ -50,7 +50,7 @@ python3 scraper.py
 | `rooms_data.py` | Kuratierte Liste aller 95 Räume |
 | `notion_sync.py` | Notion API: DB erstellen, Räume upserten, Dedup |
 | `config.py` | Notion Token (via `NOTION_TOKEN` env var) + DB-ID |
-| `run_scrape.sh` | Cron-Wrapper (lädt `.env`) |
+| `run_scrape.sh` | Cron-Wrapper (lädt `.env`, Log-Rotation fuer `scraper.log`: max 1000 Zeilen, behält 500) |
 
 ## Cron
 
